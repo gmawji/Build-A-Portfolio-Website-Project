@@ -1,0 +1,139 @@
+/* iPhone 6 Dimensions */
+@media screen and (max-width: 414px) {
+    .name{
+        font-size: 20px;
+    }
+
+    .role{
+        font-size: 7px;
+        margin: -10px 0 0 0;
+    }
+
+    .featw {
+        font-size: 17px;
+    }
+
+    .featname{
+        font-size: 10px;
+    }
+
+    .prjlink{
+        font-size: 11px;
+        margin: 1px 0 0 0;
+        padding-right: 10px;
+    }
+
+    .logo{
+        width: 100%;
+        max-width: 65px;
+    }
+
+    .mainimg{
+        width: 100%;
+        max-width: 910px;
+    }
+
+    .featimg{
+        width: 100%;
+    }
+}
+/* iPhone 6 Plus Adjustments */
+@media screen and (min-width: 414px) and (max-width: 451px) {
+    .name{
+        font-size: 22px;
+    }
+
+    .role{
+        font-size: 7px;
+        margin: -11px 0 0 0;
+    }
+
+    .featw {
+        font-size: 18px;
+    }
+
+    .featname{
+        font-size: 14px;
+    }
+
+    .prjlink{
+        font-size: 11px;
+        margin: 1px 0 0 0;
+        padding-right: 10px;
+    }
+
+    .logo{
+        width: 100%;
+        max-width: 75px;
+    }
+
+    .mainimg{
+        width: 100%;
+        max-width: 910px;
+    }
+
+    .featimg{
+        width: 100%;
+    }
+}
+/* iPhone 6 Plus Dimensions */
+@media screen and (min-width: 452px) and (max-width: 767px){
+    .name{
+        font-size: 25px;
+    }
+
+    .role{
+        font-size: 7px;
+        margin: -12px 0 0 0;
+    }
+
+    .featw {
+        font-size: 18px;
+    }
+
+    .featname{
+        font-size: 14px;
+    }
+
+    .prjlink{
+        font-size: 13px;
+        margin: 1px 0 0 0;
+    }
+
+    .logo{
+        width: 100%;
+        max-width: 75px;
+    }
+
+    .mainimg{
+        width: 100%;
+        max-width: 910px;
+    }
+
+    .featimg{
+        width: 100%;
+    }
+}
+/* iPad Dimensions */
+@media screen and (min-width: 768px) and (max-width: 809px){
+    .name{
+        font-size: 27px;
+    }
+
+    .featw {
+        font-size: 23px;
+    }
+
+    .featname{
+        font-size: 19px;
+    }
+
+    .prjlink{
+        font-size: 14px;
+        margin: 1px 0 0 0;
+    }
+
+    .logo{
+        max-width: 80px;
+    }
+}

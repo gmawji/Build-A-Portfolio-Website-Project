@@ -1,0 +1,80 @@
+body{
+    /* Make the responsiveness look nice */
+    -o-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+}
+
+.name{
+    font: 100 30px Lato, sans-serif;
+    text-align: right;
+    text-transform: uppercase;
+    color: #2d3c49;
+}
+.role{
+    font: 300 13px Lato, sans-serif;
+    text-align:right;
+    text-transform: uppercase;
+    margin: -15px 0 0 0;
+    color: #2d3c49;
+}
+.featw {
+    font: 300 30px Lato, sans-serif;
+    color: #bcbbbb;
+    margin-bottom: 10px;
+}
+.featname{
+    font: 400 25px Lato, sans-serif;
+    text-transform: uppercase;
+    margin: 5px 0 0 0;
+    text-align: center;
+    color: #2d3c49;
+}
+.prjlink{
+    font: 100 15px Lato, sans-serif;
+    margin: 0 0 0 0;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.prjlink a:visited{
+    color: #2d3c49;
+    text-decoration: none;
+}
+
+.prjlink a:link{
+    color: #2d3c49;
+    text-decoration: none;
+}
+
+.prjlink a:hover{
+    color: #02b3e4;
+    text-decoration: none;
+}
+
+.logo{
+    width: 100%;
+    max-width: 90px;
+}
+
+.mainimg{
+    margin-top: 4px;
+    width: 100%;
+}
+
+.featimg{
+    width: 100%;
+    padding-right: 10px;
+    margin-left: 6px;
+}
+
+hr {
+    border: 0;
+    clear: both;
+    display: block;
+    width: 100%;
+    background-color: #7d97ad;
+    height: 3px;
+    margin: 4px auto;
+}
