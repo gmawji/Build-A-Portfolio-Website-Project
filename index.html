@@ -7,28 +7,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Framework -->
-    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" href="css/main.css">
 
     <!-- My CSS -->
-    <link rel="stylesheet" type="text/css" href="css/elements.css">
-    <link rel="stylesheet" type="text/css" href="css/fade.css">
+    <link rel="stylesheet" href="css/elements.css">
+    <link rel="stylesheet" href="css/fade.css">
 
     <!-- Get Responsive -->
-    <link rel="stylesheet" type="text/css" href="css/responsive.css">
+    <link rel="stylesheet" href="css/responsive.css">
 
     <!-- Normalize -->
-    <link rel="stylesheet" type="text/css" src="//normalize-ss.googlecode.com/svn/trunk/normalize.css">
+    <link rel="stylesheet" src="//normalize-ss.googlecode.com/svn/trunk/normalize.css">
 
     <!-- IanLunn Hover.css -->
-    <link rel="stylesheet" type="text/css" href="css/hover.css">
+    <link rel="stylesheet" href="css/hover.css">
 
-    <!--Fonts-->
+    <!-- Fonts -->
     <style>
         @import url('https://fonts.googleapis.com/css?family=Lato:100,300,400');
     </style>
 </head>
-<body class="">
+<body>
+    <!-- Grid for all elements. Like Bootstrap container -->
     <div class="grid">
+        <!-- Header (Logo, Name, Role) -->
         <div class="row">
             <div class="col-6">
                 <img class="fade-in one logo" src="img/logo.svg">
@@ -37,8 +39,10 @@
                 <h1 class="fade-in two name">Jane Doette</h1>
                 <h3 class="fade-in two role">Front-End Ninja</h3>
             </div>
+        <!-- Divider -->
         <hr class="fade-in three" />
         </div>
+        <!-- Main Image -->
         <div class="row">
             <div class="col-12">
                 <picture>
@@ -49,13 +53,17 @@
                 </picture>
             </div>
         </div>
+        <!-- Featured Work Header -->
         <div class="row">
             <div class="col-12">
                 <h2 class="fade-in five featw">Featured Work</h2>
             </div>
         </div>
+        <!-- Featured Work Row -->
         <div class="row">
+            <!-- Featured Work One -->
             <div class="col-4">
+                <!-- Art Direction for 2x images -->
                 <picture>
                     <img class="fade-in six hvr-shadow featimg"
                     src="img/appify.png"
@@ -65,7 +73,9 @@
                 <h3 class="fade-in nine featname">Appify</h3>
                 <p class="fade-in nine prjlink"><a href="https://github.com/udacity/Appify/">https://github.com/udacity/Appify/</a></p>
             </div>
+            <!-- Featured Work Two -->
             <div class="col-4">
+                <!-- Art Direction for 2x images -->
                 <picture>
                     <img class="fade-in seven hvr-shadow featimg"
                     src="img/sunflower.png"
@@ -75,7 +85,9 @@
                 <h3 class="fade-in ten featname">Sunflower</h3>
                 <p class="fade-in ten prjlink"><a href="https://github.com/udacity/Sunflower/">https://github.com/udacity/Sunflower/</a></p>
             </div>
+            <!-- Featured Work Three -->
             <div class="col-4">
+                <!-- Art Direction for 2x images -->
                 <picture>
                     <img class="fade-in eight hvr-shadow featimg"
                     src="img/bokeh.png"
