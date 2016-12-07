@@ -1,7 +1,7 @@
 /* Font */
 @import url('https://fonts.googleapis.com/css?family=Lato:100,300,400');
 
-body{
+body {
     /* Make the responsiveness look nice */
     -o-transition: all 1s ease-in-out;
     -moz-transition: all 1s ease-in-out;
@@ -9,13 +9,13 @@ body{
     transition: all 1s ease-in-out;
 }
 
-.name{
+.name {
     font: 100 30px Lato, sans-serif;
     text-align: right;
     text-transform: uppercase;
     color: #2d3c49;
 }
-.role{
+.role {
     font: 300 13px Lato, sans-serif;
     text-align:right;
     text-transform: uppercase;
@@ -27,46 +27,46 @@ body{
     color: #bcbbbb;
     margin-bottom: 10px;
 }
-.featname{
+.featname {
     font: 400 25px Lato, sans-serif;
     text-transform: uppercase;
     margin: 5px 0 0 0;
     text-align: center;
     color: #2d3c49;
 }
-.prjlink{
+.prjlink {
     font: 100 15px Lato, sans-serif;
     margin: 0 0 0 0;
     text-align: center;
     word-wrap: break-word;
 }
 
-.prjlink a:visited{
+.prjlink a:visited {
     color: #2d3c49;
     text-decoration: none;
 }
 
-.prjlink a:link{
+.prjlink a:link {
     color: #2d3c49;
     text-decoration: none;
 }
 
-.prjlink a:hover{
+.prjlink a:hover {
     color: #02b3e4;
     text-decoration: none;
 }
 
-.logo{
+.logo {
     width: 100%;
     max-width: 90px;
 }
 
-.mainimg{
+.mainimg {
     margin-top: 4px;
     width: 100%;
 }
 
-.featimg{
+.featimg {
     width: 100%;
     padding-right: 10px;
     margin-left: 6px;
