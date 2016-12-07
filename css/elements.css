@@ -1,3 +1,6 @@
+/* Font */
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400');
+
 body{
     /* Make the responsiveness look nice */
     -o-transition: all 1s ease-in-out;
