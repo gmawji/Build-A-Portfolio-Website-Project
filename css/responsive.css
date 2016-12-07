@@ -1,10 +1,10 @@
 /* iPhone 6 Dimensions */
 @media screen and (max-width: 413px) {
-    .name{
+    .name {
         font-size: 20px;
     }
 
-    .role{
+    .role {
         font-size: 7px;
         margin: -10px 0 0 0;
     }
@@ -13,37 +13,37 @@
         font-size: 17px;
     }
 
-    .featname{
+    .featname {
         font-size: 10px;
     }
 
-    .prjlink{
+    .prjlink {
         font-size: 11px;
         margin: 1px 0 0 0;
         padding-right: 10px;
     }
 
-    .logo{
+    .logo {
         width: 100%;
         max-width: 65px;
     }
 
-    .mainimg{
+    .mainimg {
         width: 100%;
         max-width: 910px;
     }
 
-    .featimg{
+    .featimg {
         width: 100%;
     }
 }
 /* iPhone 6 Plus Adjustments */
 @media screen and (min-width: 414px) and (max-width: 451px) {
-    .name{
+    .name {
         font-size: 22px;
     }
 
-    .role{
+    .role {
         font-size: 7px;
         margin: -11px 0 0 0;
     }
@@ -52,37 +52,37 @@
         font-size: 18px;
     }
 
-    .featname{
+    .featname {
         font-size: 14px;
     }
 
-    .prjlink{
+    .prjlink {
         font-size: 11px;
         margin: 1px 0 0 0;
         padding-right: 10px;
     }
 
-    .logo{
+    .logo {
         width: 100%;
         max-width: 75px;
     }
 
-    .mainimg{
+    .mainimg {
         width: 100%;
         max-width: 910px;
     }
 
-    .featimg{
+    .featimg {
         width: 100%;
     }
 }
 /* iPhone 6 Plus Dimensions */
-@media screen and (min-width: 452px) and (max-width: 767px){
-    .name{
+@media screen and (min-width: 452px) and (max-width: 767px) {
+    .name {
         font-size: 25px;
     }
 
-    .role{
+    .role {
         font-size: 7px;
         margin: -12px 0 0 0;
     }
@@ -91,32 +91,32 @@
         font-size: 18px;
     }
 
-    .featname{
+    .featname {
         font-size: 14px;
     }
 
-    .prjlink{
+    .prjlink {
         font-size: 13px;
         margin: 1px 0 0 0;
     }
 
-    .logo{
+    .logo {
         width: 100%;
         max-width: 75px;
     }
 
-    .mainimg{
+    .mainimg {
         width: 100%;
         max-width: 910px;
     }
 
-    .featimg{
+    .featimg {
         width: 100%;
     }
 }
 /* iPad Dimensions */
-@media screen and (min-width: 768px) and (max-width: 809px){
-    .name{
+@media screen and (min-width: 768px) and (max-width: 809px) {
+    .name {
         font-size: 27px;
     }
 
@@ -124,16 +124,16 @@
         font-size: 23px;
     }
 
-    .featname{
+    .featname {
         font-size: 19px;
     }
 
-    .prjlink{
+    .prjlink {
         font-size: 14px;
         margin: 1px 0 0 0;
     }
 
-    .logo{
+    .logo {
         max-width: 80px;
     }
 }
